@@ -15,7 +15,7 @@
 
 - 🚴‍♂️ I love cycling and walking in the countryside.
 
-- 👯 I’m looking to collaborate on any Open Source project which I consider instesting or usefull.
+- 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
 - 📫 How to reach me: use the badges above 😃
 
