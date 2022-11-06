@@ -7,6 +7,7 @@
 [![Keybase Badge](https://img.shields.io/badge/-piraces-33A0FF?style=flat-square&logo=Keybase&logoColor=white&link=https://keybase.io/piraces)](https://keybase.io/piraces)
 <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
 
+
 ### I am Raúl Piracés
 
 - 🔭 I'm a Software Engineer 👨‍💻🎧 & Full Stack developer who is passionate about Web Development, Cloud computing architecture, and open source.
@@ -17,7 +18,7 @@
 
 - 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
-- 📫 How to reach me: use the badges above 😃
+- 📫 How to reach me: use the badges above 😃. I'm also on <a rel="me" href="https://mastodon.social/@piraces">Mastodon</a>
 
 - ⚡ I have a blog at https://piraces.dev where I try to post as frequently as I can (crossposting to [dev.to](https://dev.to/)). Everything I post is tech related and about things I find interesting to explain or to make others know about it.
 
