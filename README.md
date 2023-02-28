@@ -18,7 +18,7 @@
 
 - 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
-- 📫 How to reach me: use the badges above 😃. I'm also on <a rel="me" href="https://hachyderm.io/@piraces">Mastodon</a>.
+- 📫 How to reach me: use the badges above 😃. I'm also on <a rel="me" href="https://hachyderm.io/@piraces">Mastodon</a> and [Nostr](https://nostr.how/) `npub1ftpy6thgy2354xypal6jd0m37wtsgsvcxljvzje5vskc9cg3a5usexrrtq`.
 
 - ⚡ I have a blog at https://piraces.dev where I try to post as frequently as I can (crossposting to [dev.to](https://dev.to/)). Everything I post is tech related and about things I find interesting to explain or to make others know about it.
 
